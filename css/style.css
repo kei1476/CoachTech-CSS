@@ -42,12 +42,15 @@ h2 {
     top: 252px;
 }
 
+img {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
 .top-image {
-    height: 30vh;
-    width: 50vw;
-    background-image: url(../img/firstview.jpeg);
-    background-size: cover;
-    background-repeat: no-repeat;
+    height: 30%;
+    width: 50%;
     position: relative;
     top: 100px;
     margin: 0 0 0 auto;
