@@ -40,7 +40,7 @@ h2 {
     font-size: 40px;
     font-weight: normal;
     position: absolute;
-    top: 252px;
+    top: 30%;
 }
 
 img {
@@ -51,17 +51,20 @@ img {
 
 .top-image {
     height: auto;
-    width: 50%;
+    width: 600px;
     margin: 0 0 0 auto;
+    position: absolute;
+    top: 20%;
+    right: 0px;
 }
 
 
 .box {
-    width: 70vw;
-    height: 160px;
+    width: 70%;
+    height: 170px;
     background-color: blue;
     position: absolute;
-    top: 300px;
+    top: 60%;
     left: 0;
     z-index: -1;
 }
